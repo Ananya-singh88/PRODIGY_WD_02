@@ -14,8 +14,8 @@ CSS → for styling and making it look nice.
 JavaScript → for handling all the stopwatch logic.
 🚀 How to Use It
 Clone this repository:
-git clone https://github.com/Ananya/PRODIGY_WD_02
-Open the folder and run stopwatch.html in a browser.
+👉 [Click Here](https://ananya-singh88.github.io/PRODIGY_WD_02/) 
+Open the folder and run index.html in a browser.
 🎯 Features
 Simple, clean UI
 Smooth time tracking
